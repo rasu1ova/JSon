@@ -1,36 +1,103 @@
-[{
-  "id": 1,
-  "first_name": "Chickie",
-  "last_name": "Steward",
-  "email": "csteward0@pbs.org",
-  "gender": "Male",
-  "ip_address": "123.120.237.80"
-}, {
-  "id": 2,
-  "first_name": "Klarika",
-  "last_name": "Fetters",
-  "email": "kfetters1@instagram.com",
-  "gender": "Female",
-  "ip_address": "135.5.60.237"
-}, {
-  "id": 3,
-  "first_name": "Michail",
-  "last_name": "Haithwaite",
-  "email": "mhaithwaite2@creativecommons.org",
-  "gender": "Male",
-  "ip_address": "144.122.53.141"
-}, {
-  "id": 4,
-  "first_name": "Abigale",
-  "last_name": "Boggish",
-  "email": "aboggish3@usa.gov",
-  "gender": "Female",
-  "ip_address": "71.241.105.234"
-}, {
-  "id": 5,
-  "first_name": "Marysa",
-  "last_name": "Cromie",
-  "email": "mcromie4@eepurl.com",
-  "gender": "Female",
-  "ip_address": "80.170.79.28"
-}]
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "Spiced Mint",
+      "price": 9.99,
+      "img": "https://i.ibb.co/N3pRSZk/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 2,
+      "name": "Sweet Straweberry",
+      "price": 9.99,
+      "img": "https://i.ibb.co/vPtmzx7/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 3,
+      "name": "Cool Blueberries",
+      "price": 9.99,
+      "img": "https://i.ibb.co/3dhrNJL/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 4,
+      "name": "Juicy Lemon",
+      "price": 9.99,
+      "img": "https://i.ibb.co/4SMnjgD/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 5,
+      "name": "Product name",
+      "price": 9.99,
+      "img": "https://i.ibb.co/4SMnjgD/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 6,
+      "name": "Fragrant Cinnamon",
+      "price": 9.99,
+      "img": "https://i.ibb.co/TWKSV1z/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 7,
+      "name": "Summer Cherries",
+      "price": 9.99,
+      "img": "https://i.ibb.co/Wky3KV3/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }, {
+      "id": 8,
+      "name": "Clean Lavander",
+      "price": 9.99,
+      "img": "https://i.ibb.co/pbP7dNx/image-1.png",
+      "wax": "Top grade Soy wax that delivers a smoke less,  consistent burn",
+      "fragrance": "Premium quality ingredients with natural essential oils ",
+      "burning_time":"70-75 hours",
+      "dimension":"10cm x 5cm",
+      "weight":400
+    }
+  ],
+  "users" : [
+    {
+      "id": 1,
+      "name": "Luisa",
+      "img": "https://i.ibb.co/vhSkrk8/bg.png",
+      "title": "“I love it! No more air fresheners”"
+    }, {
+      "id": 2,
+      "name": "Edoardo",
+      "img": "https://i.ibb.co/J5nXPhy/bg.png",
+      "title": "“Raccomended for everyone”"
+    }, {
+      "id": 3,
+      "name": "Mart",
+      "img": "https://i.ibb.co/fXf6zLs/bg.png",
+      "title": "“Looks very natural, the smell is awesome”"
+    }
+  ]
+}
